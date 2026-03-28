@@ -1,0 +1,14 @@
+/*
+user
+reservationID
+method:"COD,"ZALO","MOMO",....
+transactionID,
+status:"pending","failured","paid","refunded",
+currency
+providerResponsed:Mix,
+PendingAt,
+FailuredAt,
+PaidAt,
+RefundedAt,
+idempotency
+*/
